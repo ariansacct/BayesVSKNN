@@ -1,0 +1,150 @@
+k now is   1.00
+confusion matrix: 
+846.00
+137.00
+115.00
+902.00
+ccr: 
+ 87.40
+err: 
+ 12.60
+
+
+
+
+
+k now is   2.00
+confusion matrix: 
+846.00
+137.00
+115.00
+902.00
+ccr: 
+ 87.40
+err: 
+ 12.60
+
+
+
+
+
+k now is   3.00
+confusion matrix: 
+853.00
+130.00
+ 62.00
+955.00
+ccr: 
+ 90.40
+err: 
+  9.60
+
+
+
+
+
+k now is   4.00
+confusion matrix: 
+850.00
+133.00
+ 66.00
+951.00
+ccr: 
+ 90.05
+err: 
+  9.95
+
+
+
+
+
+k now is   5.00
+confusion matrix: 
+853.00
+130.00
+ 59.00
+958.00
+ccr: 
+ 90.55
+err: 
+  9.45
+
+
+
+
+
+k now is   6.00
+confusion matrix: 
+849.00
+134.00
+ 58.00
+959.00
+ccr: 
+ 90.40
+err: 
+  9.60
+
+
+
+
+
+k now is   7.00
+confusion matrix: 
+850.00
+133.00
+ 46.00
+971.00
+ccr: 
+ 91.05
+err: 
+  8.95
+
+
+
+
+
+k now is   8.00
+confusion matrix: 
+849.00
+134.00
+ 46.00
+971.00
+ccr: 
+ 91.00
+err: 
+  9.00
+
+
+
+
+
+k now is   9.00
+confusion matrix: 
+848.00
+135.00
+ 43.00
+974.00
+ccr: 
+ 91.10
+err: 
+  8.90
+
+
+
+
+
+k now is  10.00
+confusion matrix: 
+851.00
+132.00
+ 44.00
+973.00
+ccr: 
+ 91.20
+err: 
+  8.80
+
+
+
+
+
